@@ -50,6 +50,11 @@ _TUYA_KNOWN_VENDORS = {
         "brand": "Nedis",
         "client_id": "pettfwyepwpwwhxy57gp",
         "secret": "A_73p8kvkhsted5fxvx8pfudk5hwtmnjr3_yptwxx4t9rkmcppyagwpd43y77tnpw8s",
+    },
+    "treatlife": {
+        "brand": "Treatlife",
+        "client_id": "8yncru89qa8495mdutya",
+        "secret": "A_37enmfsnr4r3w8j5cd3fxmhm97gaatxx_y4gn37gryf5ufqhqgh99r9wp3h44dp95",
     }
 }
 
