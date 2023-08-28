@@ -20,6 +20,36 @@ _TUYA_KNOWN_VENDORS = {
         "brand": "Ledvance",
         "client_id": "fx3fvkvusmw45d7jn8xh",
         "secret": "A_armptsqyfpxa4ftvtc739ardncett3uy_cgqx3ku34mh5qdesd7fcaru3gx7tyurr",
+    },
+    "positivo": {
+        "brand": "Positivo",
+        "client_id": "qk4c93xsttfjsm4ktr94",
+        "secret": "A_9v5dh8yngmhtxdjen7t7qqx5ggmdf5su_w7vm9gr7meys387fpj7y7yrvx8w554cd",
+    },
+    "sylvania": {
+        "brand": "Sylvania",
+        "client_id": "creq75hn4vdg5qvrgryp",
+        "secret": "A_ag4xcmp9rjttkj9yf9e8c3wfxry7yr44_wparh3scdv8dc7rrnuegaf9mqmn4snpk",
+    },
+    "birdlover": {
+        "brand": "Birdlover",
+        "client_id": "gmusrthh3sygeyv3sr38",
+        "secret": "A_pku4cchspfmskfgtaacqcvkfdscx7u7t_x4y4ds9nysv4d3agjyqwmvnptwhgtcwu",
+    },
+    "gosund": {
+        "brand": "Gosund",
+        "client_id": "pwhnn4fa7ydkakf3nehn",
+        "secret": "A_wm8hvxahqhcvvnpqgurympm4ppfgxxnm_pqdyxyx3uhk337sxxumdgfry3awaxysm",
+    },
+    "brennenstuhl": {
+        "brand": "Brennenstuhl",
+        "client_id": "dh35afm9ha79sppyxgkf",
+        "secret": "A_9gyrek4h5ygwshsndqurwjkddtjpw9yr_aqy9p3e78xr5htpsn95fss5rvcdtaahd",
+    },
+    "nedis": {
+        "brand": "Nedis",
+        "client_id": "pettfwyepwpwwhxy57gp",
+        "secret": "A_73p8kvkhsted5fxvx8pfudk5hwtmnjr3_yptwxx4t9rkmcppyagwpd43y77tnpw8s",
     }
 }
 
