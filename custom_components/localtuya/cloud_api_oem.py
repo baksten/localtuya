@@ -55,6 +55,21 @@ _TUYA_KNOWN_VENDORS = {
         "brand": "Treatlife",
         "client_id": "8yncru89qa8495mdutya",
         "secret": "A_37enmfsnr4r3w8j5cd3fxmhm97gaatxx_y4gn37gryf5ufqhqgh99r9wp3h44dp95",
+    },
+    "lsc": {
+        "brand": "LSC",
+        "client_id": "q594qaqdpy89gmvyndtp",
+        "secret": "A_yegjfwuukevd8qfxw3rjfr5sj43p5gpr_xh59e8qykn4sp7jyh7rwaq3ykfwf8e5n",
+    },
+    "overmax": {
+        "brand": "Overmax",
+        "client_id": "um7ysycqag83et8drf8n",
+        "secret": "A_jpjmj4vp5gvwmdpf8hk5yjkrj3teegve_kwqsmrup5qrx4rpgssrkt7dngq8c53q9",
+    },
+    "settiplus": {
+        "brand": "Setti+",
+        "client_id": "8fjupshhjwqq4auxtd4m",
+        "secret": "A_4eqrx7y3sygqv5eragnwxnetv3epsj4f_svhcum73wnvaehgv88wdj5dddfxrt48u",
     }
 }
 
