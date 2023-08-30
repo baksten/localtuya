@@ -70,6 +70,11 @@ _TUYA_KNOWN_VENDORS = {
         "brand": "Setti+",
         "client_id": "8fjupshhjwqq4auxtd4m",
         "secret": "A_4eqrx7y3sygqv5eragnwxnetv3epsj4f_svhcum73wnvaehgv88wdj5dddfxrt48u",
+    },
+    "nous": {
+        "brand": "Nous",
+        "client_id": "dhs3xggvwehvc5tj9xqp",
+        "secret": "A_wwwrnvy7gayy9dvp5nuahyd5d3j4kyxp_7vgwxdy589jtwwee7rugayxrderkekww",
     }
 }
 
